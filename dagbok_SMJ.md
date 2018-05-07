@@ -9,3 +9,7 @@ Reyndi að fá serverinn í lag þarsem það kom alltaf villa þegar ég keyrð
 ### *26.4.2018*
 
 Ég bætti við öllum notendum á serverinn og setti þá alla í rétta hópa. IT og Management hafa remote access með ssh. Næsta tíma mun ég reyna að fá notendur til þess að geta skráð sig inn.
+
+### *7.5.2018*
+
+Reyndi að setja inn dhcp í dag. Setti upp allann config kóðann en fékk það ekki til þess að virka.
